@@ -8,6 +8,7 @@ nest-asyncio==1.6.0
 numpy==2.3.4
 overrides==7.7.0
 packaging==25.0
+pandas==2.3.3
 pandocfilters==1.5.1
 parso==0.8.5
 pillow==12.0.0
@@ -18,6 +19,7 @@ pure_eval==0.2.3
 pycparser==2.23
 Pygments==2.19.2
 pyparsing==3.2.5
+python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
 pytz==2025.2
 pywinpty==3.0.2
